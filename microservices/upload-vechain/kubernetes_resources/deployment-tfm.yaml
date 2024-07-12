@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: upload-vechain
+  namespace: tfm
+  labels:
+    app: upload-vechain
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: upload-vechain
+  template:
+    metadata:
+      labels:
+        app: upload-vechain
+    spec:
+      containers:
+        - name: upload-vechain
+          image: acrtfmp4fr3zszvo2xi.azurecr.io/tfm/upload-vechain:1.0
+          imagePullPolicy: Always
+      imagePullSecrets:
+        - name: az-registry-creds

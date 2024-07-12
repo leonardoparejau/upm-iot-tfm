@@ -1,0 +1,19 @@
+{
+  "name": "upload-vechain",
+  "version": "1.0.0",
+  "description": "Upload metrics to vechain blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Pareja U.",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/identity": "^4.2.0",
+    "@azure/service-bus": "^7.9.4",
+    "@vechain/connex": "^1.4.2",
+    "@vechain/connex-driver": "^2.1.0",
+    "@vechain/connex-framework": "^2.1.0",
+    "stringify-object": "^5.0.0"
+  }
+}

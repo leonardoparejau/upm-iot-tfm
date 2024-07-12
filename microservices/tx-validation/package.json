@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@vechain/connex-driver": "^2.1.0",
+    "@vechain/connex-framework": "^2.1.0",
+    "abi-decoder": "^2.4.0",
+    "axios": "^1.7.2",
+    "ethers": "^6.13.1",
+    "express": "^4.19.2",
+    "thor-devkit": "^2.0.9",
+    "web3": "^4.10.0",
+    "web3-eth-abi": "^4.2.2"
+  }
+}

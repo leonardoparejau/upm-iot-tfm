@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: metrics-api
+  namespace: tfm
+  labels:
+    app: metrics-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: metrics-api
+  template:
+    metadata:
+      labels:
+        app: metrics-api
+    spec:
+      containers:
+        - name: metrics-api
+          image: acrtfmp4fr3zszvo2xi.azurecr.io/tfm/metrics-api:1.0
+          imagePullPolicy: Always
+      imagePullSecrets:
+        - name: az-registry-creds

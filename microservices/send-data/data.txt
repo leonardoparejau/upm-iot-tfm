@@ -1,0 +1,448 @@
+J#
+Receiving example
+Error receiving a packet:1
+Error receiving a packet:1
+Data: <=>†#0E4244E819623C62#node_01#0#STR:Temp: 21.75, Hum: 27.74, Pres: 97170.78_#BAT:75#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#1#STR:Temp: 20.81, Hum: 29.82, Pres: 97176.59_#BAT:100#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#2#STR:Temp: 19.89, Hum: 31.89, Pres: 97175.49_#BAT:100#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#0#STR:Temp: 18.94, Hum: 33.19, Pres: 97185.14_#BAT:100#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#1#STR:Temp: 17.88, Hum: 34.24, Pres: 97181.47_#BAT:100#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#2#STR:Temp: 17.11, Hum: 35.65, Pres: 97182.11_#BAT:100#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#3#STR:Temp: 16.82, Hum: 37.42, Pres: 97182.98_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#0#STR:Temp: 19.85, Hum: 32.38, Pres: 97244.03_#BAT:3#
+Length: 84
+Data: <=>†#0E4244E819623C62#node_01#4#STR:Temp: 16.87, Hum: 40.01, Pres: 97183.26_#BAT:100#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#5#STR:Temp: 16.84, Hum: 40.08, Pres: 97177.71_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#0#STR:Temp: 19.76, Hum: 33.29, Pres: 97250.24_#BAT:6#
+Length: 84
+Data: <=>†#762B7C32C8913EEB#node_01#1#STR:Temp: 19.22, Hum: 34.33, Pres: 97247.22_#BAT:98#
+Length: 85
+Data: <=>†#762B7C32C8913EEB#node_01#0#STR:Temp: 19.41, Hum: 34.16, Pres: 97250.47_#BAT:94#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#0#STR:Temp: 18.79, Hum: 35.97, Pres: 97182.17_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#1#STR:Temp: 19.45, Hum: 35.18, Pres: 97240.50_#BAT:100#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#1#STR:Temp: 18.54, Hum: 35.82, Pres: 97173.22_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#2#STR:Temp: 19.09, Hum: 33.63, Pres: 97241.23_#BAT:77#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#2#STR:Temp: 18.23, Hum: 35.38, Pres: 97173.47_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#3#STR:Temp: 19.01, Hum: 33.56, Pres: 97238.81_#BAT:76#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#3#STR:Temp: 17.84, Hum: 35.01, Pres: 97167.63_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#4#STR:Temp: 18.65, Hum: 32.87, Pres: 97241.61_#BAT:76#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#4#STR:Temp: 17.43, Hum: 34.75, Pres: 97170.64_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#5#STR:Temp: 18.14, Hum: 33.65, Pres: 97247.80_#BAT:78#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#5#STR:Temp: 16.89, Hum: 36.00, Pres: 97172.16_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#6#STR:Temp: 18.35, Hum: 34.26, Pres: 97246.06_#BAT:76#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#6#STR:Temp: 17.10, Hum: 36.69, Pres: 97165.73_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#7#STR:Temp: 18.67, Hum: 33.87, Pres: 97235.45_#BAT:78#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#7#STR:Temp: 17.54, Hum: 36.15, Pres: 97172.06_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#8#STR:Temp: 18.90, Hum: 33.07, Pres: 97240.36_#BAT:79#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#8#STR:Temp: 17.70, Hum: 35.29, Pres: 97172.98_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#9#STR:Temp: 17.96, Hum: 32.91, Pres: 97244.41_#BAT:79#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#9#STR:Temp: 16.92, Hum: 34.87, Pres: 97166.20_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#10#STR:Temp: 16.97, Hum: 33.73, Pres: 97246.97_#BAT:79#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#10#STR:Temp: 16.49, Hum: 35.38, Pres: 97171.25_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#11#STR:Temp: 16.42, Hum: 34.79, Pres: 97239.64_#BAT:79#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#11#STR:Temp: 16.26, Hum: 36.12, Pres: 97162.44_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#12#STR:Temp: 16.19, Hum: 35.64, Pres: 97236.08_#BAT:80#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#12#STR:Temp: 15.98, Hum: 36.44, Pres: 97164.86_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#13#STR:Temp: 16.09, Hum: 36.70, Pres: 97241.42_#BAT:28#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#0#STR:Temp: 16.06, Hum: 37.57, Pres: 97160.47_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#14#STR:Temp: 16.43, Hum: 37.26, Pres: 97236.79_#BAT:28#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#15#STR:Temp: 15.87, Hum: 37.93, Pres: 97241.21_#BAT:79#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#0#STR:Temp: 15.28, Hum: 39.12, Pres: 97164.62_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#0#STR:Temp: 15.25, Hum: 38.77, Pres: 97238.32_#BAT:81#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#1#STR:Temp: 15.03, Hum: 40.08, Pres: 97156.61_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#1#STR:Temp: 14.72, Hum: 39.82, Pres: 97238.64_#BAT:78#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#2#STR:Temp: 14.82, Hum: 39.40, Pres: 97160.77_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#2#STR:Temp: 14.50, Hum: 39.23, Pres: 97239.41_#BAT:80#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#3#STR:Temp: 14.88, Hum: 38.99, Pres: 97159.91_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#3#STR:Temp: 14.38, Hum: 39.29, Pres: 97239.64_#BAT:80#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#4#STR:Temp: 14.73, Hum: 39.26, Pres: 97159.25_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#4#STR:Temp: 14.14, Hum: 39.80, Pres: 97243.14_#BAT:81#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#5#STR:Temp: 14.75, Hum: 39.32, Pres: 97158.42_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#5#STR:Temp: 14.11, Hum: 40.23, Pres: 97241.98_#BAT:82#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#6#STR:Temp: 14.69, Hum: 39.75, Pres: 97154.58_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#6#STR:Temp: 14.04, Hum: 40.76, Pres: 97237.80_#BAT:82#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#7#STR:Temp: 14.55, Hum: 40.15, Pres: 97161.41_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#7#STR:Temp: 13.86, Hum: 41.20, Pres: 97239.34_#BAT:82#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#8#STR:Temp: 14.68, Hum: 40.64, Pres: 97151.81_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#8#STR:Temp: 13.88, Hum: 42.00, Pres: 97240.95_#BAT:85#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#9#STR:Temp: 14.25, Hum: 41.16, Pres: 97143.89_#BAT:100#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#9#STR:Temp: 13.75, Hum: 42.09, Pres: 97227.84_#BAT:87#
+Length: 85
+Data: <=>†#0E4244E819623C62#node_01#10#STR:Temp: 14.14, Hum: 41.80, Pres: 97142.39_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#10#STR:Temp: 13.74, Hum: 42.54, Pres: 97222.51_#BAT:87#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#11#STR:Temp: 13.91, Hum: 41.18, Pres: 97147.67_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#11#STR:Temp: 13.63, Hum: 41.70, Pres: 97225.16_#BAT:87#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#12#STR:Temp: 13.78, Hum: 41.40, Pres: 97142.21_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#12#STR:Temp: 13.68, Hum: 41.74, Pres: 97226.68_#BAT:88#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#13#STR:Temp: 13.68, Hum: 41.90, Pres: 97138.73_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#13#STR:Temp: 13.68, Hum: 41.85, Pres: 97225.52_#BAT:87#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#14#STR:Temp: 13.54, Hum: 42.17, Pres: 97145.12_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#14#STR:Temp: 13.57, Hum: 41.98, Pres: 97223.43_#BAT:88#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#15#STR:Temp: 13.60, Hum: 42.89, Pres: 97135.63_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#15#STR:Temp: 13.62, Hum: 42.93, Pres: 97224.11_#BAT:88#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#16#STR:Temp: 13.65, Hum: 43.47, Pres: 97148.60_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#16#STR:Temp: 13.82, Hum: 43.13, Pres: 97227.71_#BAT:88#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#17#STR:Temp: 13.60, Hum: 43.19, Pres: 97143.13_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#17#STR:Temp: 13.78, Hum: 42.41, Pres: 97226.80_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#18#STR:Temp: 13.62, Hum: 42.95, Pres: 97137.18_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#18#STR:Temp: 13.72, Hum: 42.41, Pres: 97226.44_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#19#STR:Temp: 13.65, Hum: 42.78, Pres: 97138.34_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#19#STR:Temp: 13.69, Hum: 42.42, Pres: 97225.88_#BAT:90#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#20#STR:Temp: 13.77, Hum: 42.56, Pres: 97148.11_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#20#STR:Temp: 13.72, Hum: 42.53, Pres: 97226.44_#BAT:90#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#21#STR:Temp: 13.81, Hum: 42.93, Pres: 97143.38_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#21#STR:Temp: 13.73, Hum: 42.79, Pres: 97223.31_#BAT:94#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#22#STR:Temp: 13.78, Hum: 42.42, Pres: 97144.19_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#22#STR:Temp: 13.73, Hum: 42.43, Pres: 97219.25_#BAT:93#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#23#STR:Temp: 13.67, Hum: 42.32, Pres: 97141.11_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#23#STR:Temp: 13.55, Hum: 42.15, Pres: 97226.91_#BAT:92#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#24#STR:Temp: 13.62, Hum: 43.02, Pres: 97141.92_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#24#STR:Temp: 13.61, Hum: 43.20, Pres: 97221.90_#BAT:93#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#25#STR:Temp: 13.51, Hum: 43.76, Pres: 97140.03_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#25#STR:Temp: 13.48, Hum: 43.53, Pres: 97232.78_#BAT:99#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#26#STR:Temp: 13.10, Hum: 43.45, Pres: 97143.72_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#26#STR:Temp: 13.36, Hum: 42.85, Pres: 97228.83_#BAT:98#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#27#STR:Temp: 12.80, Hum: 44.28, Pres: 97141.81_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#27#STR:Temp: 13.22, Hum: 43.34, Pres: 97226.79_#BAT:97#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#28#STR:Temp: 12.92, Hum: 45.18, Pres: 97148.09_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#28#STR:Temp: 13.23, Hum: 44.39, Pres: 97230.09_#BAT:96#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#29#STR:Temp: 13.02, Hum: 45.59, Pres: 97152.38_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#29#STR:Temp: 13.68, Hum: 44.20, Pres: 97232.23_#BAT:97#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#30#STR:Temp: 13.70, Hum: 45.17, Pres: 97160.70_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#30#STR:Temp: 13.86, Hum: 43.69, Pres: 97232.70_#BAT:96#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#31#STR:Temp: 14.84, Hum: 44.09, Pres: 97150.78_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#31#STR:Temp: 14.35, Hum: 43.74, Pres: 97231.14_#BAT:97#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#32#STR:Temp: 15.04, Hum: 41.31, Pres: 97152.23_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#32#STR:Temp: 14.22, Hum: 41.76, Pres: 97222.13_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#33#STR:Temp: 15.11, Hum: 40.64, Pres: 97154.91_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#33#STR:Temp: 14.12, Hum: 41.72, Pres: 97220.98_#BAT:98#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#34#STR:Temp: 15.07, Hum: 40.18, Pres: 97150.91_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#34#STR:Temp: 14.33, Hum: 41.37, Pres: 97233.34_#BAT:96#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#35#STR:Temp: 15.46, Hum: 40.65, Pres: 97170.28_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#35#STR:Temp: 14.90, Hum: 41.80, Pres: 97217.28_#BAT:97#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#36#STR:Temp: 15.79, Hum: 40.17, Pres: 97178.96_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#36#STR:Temp: 15.30, Hum: 40.78, Pres: 97231.38_#BAT:97#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#37#STR:Temp: 15.91, Hum: 39.58, Pres: 97168.52_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#37#STR:Temp: 15.66, Hum: 39.97, Pres: 97218.05_#BAT:98#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#38#STR:Temp: 16.18, Hum: 39.13, Pres: 97174.05_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#38#STR:Temp: 15.93, Hum: 39.38, Pres: 97227.00_#BAT:98#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#39#STR:Temp: 16.60, Hum: 38.19, Pres: 97151.62_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#39#STR:Temp: 15.66, Hum: 38.99, Pres: 97224.83_#BAT:97#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#40#STR:Temp: 16.93, Hum: 38.21, Pres: 97153.06_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#40#STR:Temp: 15.68, Hum: 40.04, Pres: 97228.75_#BAT:98#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#41#STR:Temp: 16.89, Hum: 37.47, Pres: 97161.02_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#41#STR:Temp: 15.98, Hum: 38.99, Pres: 97222.45_#BAT:98#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#42#STR:Temp: 16.36, Hum: 37.99, Pres: 97150.50_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#42#STR:Temp: 15.52, Hum: 39.44, Pres: 97241.51_#BAT:92#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#43#STR:Temp: 16.75, Hum: 37.79, Pres: 97146.17_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#43#STR:Temp: 16.14, Hum: 38.76, Pres: 97239.30_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#44#STR:Temp: 16.65, Hum: 37.15, Pres: 97142.94_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#44#STR:Temp: 15.92, Hum: 38.03, Pres: 97249.64_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#45#STR:Temp: 16.46, Hum: 37.54, Pres: 97157.83_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#45#STR:Temp: 15.82, Hum: 38.68, Pres: 97250.95_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#46#STR:Temp: 16.88, Hum: 37.71, Pres: 97145.16_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#46#STR:Temp: 16.25, Hum: 39.08, Pres: 97253.72_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#47#STR:Temp: 17.13, Hum: 36.91, Pres: 97147.08_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#47#STR:Temp: 16.52, Hum: 37.67, Pres: 97255.11_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#48#STR:Temp: 17.42, Hum: 36.50, Pres: 97149.71_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#48#STR:Temp: 16.70, Hum: 37.40, Pres: 97248.08_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#49#STR:Temp: 17.58, Hum: 36.88, Pres: 97143.78_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#49#STR:Temp: 16.84, Hum: 37.92, Pres: 97240.00_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#50#STR:Temp: 17.14, Hum: 36.99, Pres: 97152.78_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#50#STR:Temp: 16.49, Hum: 37.89, Pres: 97234.05_#BAT:84#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#51#STR:Temp: 17.19, Hum: 36.66, Pres: 97169.14_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#51#STR:Temp: 16.48, Hum: 37.82, Pres: 97229.70_#BAT:88#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#52#STR:Temp: 17.46, Hum: 35.91, Pres: 97181.73_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#52#STR:Temp: 16.95, Hum: 36.62, Pres: 97239.29_#BAT:88#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#53#STR:Temp: 17.53, Hum: 36.32, Pres: 97169.80_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#53#STR:Temp: 17.20, Hum: 36.81, Pres: 97232.00_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#54#STR:Temp: 17.36, Hum: 36.00, Pres: 97181.62_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#54#STR:Temp: 17.19, Hum: 36.29, Pres: 97231.20_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#55#STR:Temp: 17.63, Hum: 35.48, Pres: 97172.98_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#55#STR:Temp: 17.35, Hum: 35.59, Pres: 97235.38_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#56#STR:Temp: 18.12, Hum: 35.08, Pres: 97170.41_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#56#STR:Temp: 17.72, Hum: 35.36, Pres: 97231.94_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#57#STR:Temp: 18.08, Hum: 35.18, Pres: 97168.92_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#57#STR:Temp: 17.78, Hum: 35.51, Pres: 97234.41_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#58#STR:Temp: 18.39, Hum: 35.14, Pres: 97164.70_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#58#STR:Temp: 18.03, Hum: 35.65, Pres: 97230.29_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#59#STR:Temp: 18.35, Hum: 35.45, Pres: 97157.22_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#59#STR:Temp: 17.97, Hum: 36.08, Pres: 97229.45_#BAT:90#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#60#STR:Temp: 18.84, Hum: 35.50, Pres: 97156.59_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#60#STR:Temp: 18.08, Hum: 36.23, Pres: 97232.25_#BAT:90#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#61#STR:Temp: 19.45, Hum: 34.24, Pres: 97162.36_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#61#STR:Temp: 18.39, Hum: 35.26, Pres: 97225.39_#BAT:90#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#62#STR:Temp: 19.30, Hum: 34.83, Pres: 97159.78_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#62#STR:Temp: 18.40, Hum: 35.85, Pres: 97233.20_#BAT:91#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#63#STR:Temp: 19.83, Hum: 33.84, Pres: 97150.88_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#63#STR:Temp: 18.80, Hum: 34.83, Pres: 97226.38_#BAT:90#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#64#STR:Temp: 19.94, Hum: 32.85, Pres: 97151.43_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#64#STR:Temp: 18.75, Hum: 34.03, Pres: 97216.42_#BAT:94#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#65#STR:Temp: 19.86, Hum: 32.20, Pres: 97158.66_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#65#STR:Temp: 18.44, Hum: 33.74, Pres: 97228.84_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#66#STR:Temp: 19.14, Hum: 32.27, Pres: 97158.13_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#66#STR:Temp: 18.16, Hum: 33.85, Pres: 97229.02_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#67#STR:Temp: 18.72, Hum: 33.35, Pres: 97158.26_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#67#STR:Temp: 18.16, Hum: 34.16, Pres: 97230.59_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#68#STR:Temp: 18.46, Hum: 33.91, Pres: 97152.19_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#68#STR:Temp: 17.69, Hum: 35.00, Pres: 97226.73_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#69#STR:Temp: 17.42, Hum: 35.23, Pres: 97145.09_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#69#STR:Temp: 16.90, Hum: 36.16, Pres: 97229.02_#BAT:94#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#70#STR:Temp: 16.90, Hum: 35.78, Pres: 97148.84_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#70#STR:Temp: 16.79, Hum: 36.43, Pres: 97224.91_#BAT:92#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#71#STR:Temp: 16.62, Hum: 36.80, Pres: 97143.30_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#71#STR:Temp: 16.68, Hum: 36.95, Pres: 97220.16_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#72#STR:Temp: 16.70, Hum: 37.39, Pres: 97147.86_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#72#STR:Temp: 16.50, Hum: 37.34, Pres: 97227.45_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#73#STR:Temp: 16.67, Hum: 37.45, Pres: 97146.44_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#73#STR:Temp: 16.41, Hum: 37.89, Pres: 97222.77_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#74#STR:Temp: 16.52, Hum: 37.86, Pres: 97152.98_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#74#STR:Temp: 16.23, Hum: 38.26, Pres: 97229.23_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#75#STR:Temp: 16.47, Hum: 38.21, Pres: 97143.60_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#75#STR:Temp: 16.30, Hum: 38.56, Pres: 97227.73_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#76#STR:Temp: 16.38, Hum: 39.03, Pres: 97153.23_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#76#STR:Temp: 16.24, Hum: 39.14, Pres: 97223.39_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#77#STR:Temp: 16.23, Hum: 39.75, Pres: 97156.65_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#77#STR:Temp: 15.96, Hum: 40.11, Pres: 97250.03_#BAT:95#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#78#STR:Temp: 15.98, Hum: 39.48, Pres: 97144.38_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#78#STR:Temp: 16.11, Hum: 39.43, Pres: 97234.78_#BAT:99#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#79#STR:Temp: 16.51, Hum: 39.73, Pres: 97146.48_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#79#STR:Temp: 16.57, Hum: 39.24, Pres: 97248.83_#BAT:85#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#80#STR:Temp: 17.46, Hum: 38.19, Pres: 97146.36_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#80#STR:Temp: 17.58, Hum: 37.48, Pres: 97242.06_#BAT:85#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#81#STR:Temp: 17.91, Hum: 36.85, Pres: 97148.94_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#81#STR:Temp: 18.34, Hum: 36.00, Pres: 97235.88_#BAT:83#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#82#STR:Temp: 17.36, Hum: 35.89, Pres: 97149.80_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#82#STR:Temp: 17.72, Hum: 34.88, Pres: 97225.93_#BAT:81#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#83#STR:Temp: 16.83, Hum: 36.35, Pres: 97143.03_#BAT:64#
+Length: 86
+Data: <=>†#762B7C32C8913EEB#node_01#83#STR:Temp: 16.90, Hum: 35.65, Pres: 97215.42_#BAT:100#
+Length: 87
+Data: <=>†#0E4244E819623C62#node_01#84#STR:Temp: 15.51, Hum: 37.28, Pres: 97146.66_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#84#STR:Temp: 15.79, Hum: 36.68, Pres: 97220.80_#BAT:88#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#85#STR:Temp: 15.64, Hum: 37.98, Pres: 97146.25_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#85#STR:Temp: 15.36, Hum: 37.68, Pres: 97224.72_#BAT:90#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#86#STR:Temp: 15.70, Hum: 38.55, Pres: 97142.33_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#86#STR:Temp: 15.58, Hum: 38.50, Pres: 97234.70_#BAT:86#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#87#STR:Temp: 15.88, Hum: 38.01, Pres: 97140.56_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#87#STR:Temp: 15.59, Hum: 38.13, Pres: 97221.50_#BAT:88#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#88#STR:Temp: 15.72, Hum: 38.66, Pres: 97154.14_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#88#STR:Temp: 15.50, Hum: 38.71, Pres: 97231.87_#BAT:89#
+Length: 86
+Data: <=>†#0E4244E819623C62#node_01#89#STR:Temp: 15.81, Hum: 39.46, Pres: 97152.86_#BAT:100#
+Length: 87
+Data: <=>†#762B7C32C8913EEB#node_01#89#STR:Temp: 15.60, Hum: 40.02, Pres: 97228.64_#BAT:100#
+Length: 87

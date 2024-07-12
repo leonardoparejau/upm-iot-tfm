@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: alert-management
+  namespace: tfm
+  labels:
+    app: alert-management
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: alert-management
+  template:
+    metadata:
+      labels:
+        app: alert-management
+    spec:
+      containers:
+        - name: alert-management
+          image: acrtfmp4fr3zszvo2xi.azurecr.io/tfm/alert-management:1.1
+          imagePullPolicy: Always
+      imagePullSecrets:
+        - name: az-registry-creds

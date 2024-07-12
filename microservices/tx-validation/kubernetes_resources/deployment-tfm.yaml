@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tx-validator
+  namespace: tfm
+  labels:
+    app: tx-validator
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: tx-validator
+  template:
+    metadata:
+      labels:
+        app: tx-validator
+    spec:
+      containers:
+        - name: tx-validator
+          image: acrtfmp4fr3zszvo2xi.azurecr.io/tfm/tx-validator:1.0
+          imagePullPolicy: Always
+      imagePullSecrets:
+        - name: az-registry-creds

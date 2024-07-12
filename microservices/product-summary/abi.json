@@ -1,0 +1,55 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "bytes32",
+				"name": "productId",
+				"type": "bytes32"
+			},
+			{
+				"internalType": "uint256",
+				"name": "initialDate",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "endDate",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "maxTemp",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "minTemp",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "avgTemp",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "maxHumidity",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "minHumidity",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "avgHumidity",
+				"type": "uint256"
+			}
+		],
+		"name": "addSummary",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]

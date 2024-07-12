@@ -1,0 +1,18 @@
+kind: Ingress
+apiVersion: networking.k8s.io/v1
+metadata:
+  name: tx-validator
+  namespace: tfm
+spec:
+  ingressClassName: webapprouting.kubernetes.azure.com
+  rules:
+    - host: tx.lpareja.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: tx-validator
+                port:
+                  number: 80

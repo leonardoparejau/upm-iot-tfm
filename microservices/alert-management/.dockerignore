@@ -1,0 +1,5 @@
+node_modules
+kubernetes_resources
+npm-debug.log
+Dockerfile
+.dockerignore

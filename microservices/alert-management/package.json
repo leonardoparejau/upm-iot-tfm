@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@azure/service-bus": "^7.9.4",
+    "azure-iot-common": "^1.13.2",
+    "azure-iothub": "^1.16.5",
+    "dotenv": "^16.4.5"
+  }
+}
